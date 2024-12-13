@@ -1,0 +1,7 @@
+menu "Amlogic Device Drivers"
+
+# source "drivers/amlogic/bluetooth/Kconfig"
+source "drivers/amlogic/wifi/Kconfig"
+source "drivers/amlogic/mmc/Kconfig"
+
+endmenu
